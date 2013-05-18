@@ -1,1 +1,1 @@
-<iframe width="420" height="315" src="http://www.youtube.com/embed/7J_mDxAS23o" frameborder="0" allowfullscreen></iframe> 
+Example - <a href="http://www.youtube.com/watch?v=7J_mDxAS23o">http://www.youtube.com/watch?v=7J_mDxAS23o</a>
